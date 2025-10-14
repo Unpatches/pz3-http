@@ -17,7 +17,7 @@
 
 ```
 git clone https://github.com/Unpatches/pz3-http
-cd myapp
+cd pz3-http
 ```
 
 Команда запуска сервера:
